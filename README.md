@@ -10,7 +10,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/bcc1bfac-0bcb-4fd9-8b8c-268eb7b13e66
+<img width="1191" height="789" alt="DubStabs099Preview" src="https://github.com/user-attachments/assets/9798ef77-ae75-4e8c-affc-0577f59ed315" />
 
 ---
 
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/bcc1bfac-0bcb-4fd9-8b8c-268eb7b13e66
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest `Dubstabs.app.zip`.
+1. Download the latest [`DubStabs0.9.9.app.zip`](https://github.com/de0bfusc4tor/Dub-Stabs/releases/download/DubStabs0.9.9/DubStabs0.9.9.app.zip).
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dubstabs`.
 
