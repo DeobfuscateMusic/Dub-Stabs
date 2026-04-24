@@ -1,6 +1,6 @@
 <p align="center"><img width="397" height="88" alt="Dub Stabs Banner" src="https://github.com/user-attachments/assets/7d191e7f-7398-459e-9dcb-e9f0186a59ac" /></p>
 
-_<p align="center">Synthesizer for Dub Techno Chords & Stabs. Includes 8 classic hardwares synthesizers.</p>_
+_<p align="center">Synthesizers for Dub Techno Chords & Stabs. Includes 8 classic hardwares synthesizers.</p>_
 
 ---
 
