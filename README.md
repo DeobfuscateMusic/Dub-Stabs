@@ -12,7 +12,7 @@ _<p align="center">Synthesizers for Dub Techno Chords & Stabs. Includes 8 classi
 
 ---
 
-<img width="1440" height="900" alt="Dub Stabs 1 0 0" src="https://github.com/user-attachments/assets/bf1c2bee-bd38-4854-bf90-c83efe4db195" />
+https://github.com/user-attachments/assets/e6f05b59-386c-4dc5-aa4c-db1f47e8819b
 
 ---
 
